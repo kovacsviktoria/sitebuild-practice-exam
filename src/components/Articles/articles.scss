@@ -1,7 +1,6 @@
 #root{
     .App{
         main{
-
             .article-container{
                 margin: 30px 0;
                 h2{
@@ -11,15 +10,14 @@
 
                 h4{
                     font-size: 0.8rem;
-                    line-height: 2rem;
                     font-weight: 300;
+                    line-height: 2rem;
                     color: rgb(102, 102, 102)
-
                 }
 
                 p{
-                    line-height: 1.5rem;
                     font-weight: 400;
+                    line-height: 1.5rem;
                     letter-spacing: 0.01rem;
                     color: rgb(119, 126, 124)
 
@@ -31,7 +29,6 @@
                     color: white;
                     border-radius: 50px;
                     text-transform: uppercase;
-
                 }
             }
         }
@@ -46,13 +43,13 @@
                     .article-container{
                         h2{
                             width: 90%;
-                            line-height: 1.5rem;
                             margin-bottom: 5px;
+                            line-height: 1.5rem;
                         }
                         h4{
                             width: 50%;
-                            line-height: 1rem;
                             margin-bottom: 20px;
+                            line-height: 1rem;
                         }
 
                         .unique-button{
@@ -61,7 +58,6 @@
                     }
                 }
             }
-
         }
     }
 }
