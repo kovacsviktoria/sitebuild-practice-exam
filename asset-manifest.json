@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kovacsviktoria/sitebuild-practice-exam/static/css/main.ce6a6f88.chunk.css",
+    "main.js": "/kovacsviktoria/sitebuild-practice-exam/static/js/main.82c0dabf.chunk.js",
+    "main.js.map": "/kovacsviktoria/sitebuild-practice-exam/static/js/main.82c0dabf.chunk.js.map",
+    "runtime-main.js": "/kovacsviktoria/sitebuild-practice-exam/static/js/runtime-main.dad7be14.js",
+    "runtime-main.js.map": "/kovacsviktoria/sitebuild-practice-exam/static/js/runtime-main.dad7be14.js.map",
+    "static/js/2.7b2fbdba.chunk.js": "/kovacsviktoria/sitebuild-practice-exam/static/js/2.7b2fbdba.chunk.js",
+    "static/js/2.7b2fbdba.chunk.js.map": "/kovacsviktoria/sitebuild-practice-exam/static/js/2.7b2fbdba.chunk.js.map",
+    "static/js/3.9dfdfb30.chunk.js": "/kovacsviktoria/sitebuild-practice-exam/static/js/3.9dfdfb30.chunk.js",
+    "static/js/3.9dfdfb30.chunk.js.map": "/kovacsviktoria/sitebuild-practice-exam/static/js/3.9dfdfb30.chunk.js.map",
+    "index.html": "/kovacsviktoria/sitebuild-practice-exam/index.html",
+    "static/css/main.ce6a6f88.chunk.css.map": "/kovacsviktoria/sitebuild-practice-exam/static/css/main.ce6a6f88.chunk.css.map",
+    "static/js/2.7b2fbdba.chunk.js.LICENSE.txt": "/kovacsviktoria/sitebuild-practice-exam/static/js/2.7b2fbdba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad7be14.js",
+    "static/js/2.7b2fbdba.chunk.js",
+    "static/css/main.ce6a6f88.chunk.css",
+    "static/js/main.82c0dabf.chunk.js"
+  ]
+}
